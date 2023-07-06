@@ -1,0 +1,10 @@
+.itemcard {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+}
